@@ -7,6 +7,9 @@
 
 ```
 .
+├── Images
+|   ├── Architecture.png                
+|   ├── Block Diagram.png
 ├── dataset                             -> Contains Dataset of the birds 
 |   ├── crow 
 |   ├── cuckoo
@@ -14,15 +17,11 @@
 |   ├── test
 |   ├── train.csv
 |   ├── valid.csv
-├── Images
-|   ├── Architecture.png                
-|   ├── Block Diagram.png
 ├── BE_Proj.ipynb                       -> Code file
 ```
 
 ## Block Diagram
-![Block Diagram](/Images/Block Diagram.png)
-
+![Block Diagram](./Images/Block Diagram.png)
 
 
 ## Modules Implemented
