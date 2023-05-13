@@ -21,7 +21,7 @@
 ```
 
 ## Block Diagram
-![Block Diagram](Images/Block Diagram.png)
+![Block Diagram](/Images/Block Diagram.png)
 
 
 
